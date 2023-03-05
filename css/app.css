@@ -71,6 +71,7 @@ span{
     line-height: 25px;
     opacity: 0.75;
     margin-top:25px; 
+    margin-right: 40px;
 }
 .stats-box{
     display: flex;
