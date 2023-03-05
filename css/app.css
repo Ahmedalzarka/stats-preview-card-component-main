@@ -133,4 +133,7 @@ span{
     .stats{
         margin: 0;
     }
+    .desc{
+    margin-right: 0;
+    }
 }
